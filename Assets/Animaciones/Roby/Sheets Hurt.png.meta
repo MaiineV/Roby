@@ -1,0 +1,883 @@
+fileFormatVersion: 2
+guid: 4f9c60fa1da24454f8e839e0093fd16a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6656735159427540548
+    second: E_Hurt00
+  - first:
+      213: -8190408154041204258
+    second: E_Hurt01
+  - first:
+      213: -4726043293979539052
+    second: E_Hurt02
+  - first:
+      213: -7857432709799736697
+    second: E_Hurt03
+  - first:
+      213: 786156865251238849
+    second: E_Hurt04
+  - first:
+      213: 4686770820680953852
+    second: E_Hurt05
+  - first:
+      213: 5311536467083638954
+    second: E_Hurt06
+  - first:
+      213: 4395051557620094377
+    second: E_Hurt07
+  - first:
+      213: 8884996901764822445
+    second: E_Hurt08
+  - first:
+      213: -7247739681922124430
+    second: E_Hurt09
+  - first:
+      213: 1798996167466106731
+    second: E_Hurt10
+  - first:
+      213: -554125849382012781
+    second: E_Hurt11
+  - first:
+      213: -4331648651233476249
+    second: E_Hurt12
+  - first:
+      213: 7799446110560051034
+    second: E_Hurt13
+  - first:
+      213: 6531863179123499659
+    second: E_Hurt14
+  - first:
+      213: 2881307146052798229
+    second: E_Hurt15
+  - first:
+      213: -8369103768793963459
+    second: F_Hurt00
+  - first:
+      213: 7313198813214043811
+    second: F_Hurt01
+  - first:
+      213: 5979314750052195748
+    second: F_Hurt02
+  - first:
+      213: 8754061106885832245
+    second: F_Hurt03
+  - first:
+      213: -2995598215833872477
+    second: F_Hurt04
+  - first:
+      213: 5224735758595025652
+    second: F_Hurt05
+  - first:
+      213: 8807743504231323889
+    second: F_Hurt06
+  - first:
+      213: -1713361304493608205
+    second: F_Hurt07
+  - first:
+      213: 4077985095633585579
+    second: F_Hurt08
+  - first:
+      213: 3351948759517831184
+    second: F_Hurt09
+  - first:
+      213: 1695319700459423363
+    second: F_Hurt10
+  - first:
+      213: -2274606766452166668
+    second: F_Hurt11
+  - first:
+      213: -4820478543261084898
+    second: F_Hurt12
+  - first:
+      213: -1085424771669896520
+    second: F_Hurt13
+  - first:
+      213: -6791260968864367747
+    second: F_Hurt14
+  - first:
+      213: -7898984270864284554
+    second: F_Hurt15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: E_Hurt00
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 685
+        width: 332
+        height: 347
+      alignment: 9
+      pivot: {x: 0.49224463, y: 0.4727931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c5df7415be5fa4ab3929e58bb9b078
+      internalID: -6656735159427540548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Hurt01
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 685
+        width: 329
+        height: 376
+      alignment: 9
+      pivot: {x: 0.49086922, y: 0.43380478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d27dad628f05444899f5d722efa99d
+      internalID: -8190408154041204258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Hurt02
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 685
+        width: 332
+        height: 416
+      alignment: 9
+      pivot: {x: 0.4909521, y: 0.39478126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b5693b1e4a12f429a5292b935dd5c8
+      internalID: -4726043293979539052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Hurt03
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 685
+        width: 333
+        height: 445
+      alignment: 9
+      pivot: {x: 0.49226815, y: 0.3678866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b19a2f9648fc5f4eb3b540a6449cce7
+      internalID: -7857432709799736697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Hurt04
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 685
+        width: 337
+        height: 453
+      alignment: 9
+      pivot: {x: 0.49490637, y: 0.36074674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db2787d788fdca46a22171495cf9fac
+      internalID: 786156865251238849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Hurt05
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 685
+        width: 339
+        height: 445
+      alignment: 9
+      pivot: {x: 0.49240428, y: 0.37656552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574e956990c91674496e21e11d0ef42f
+      internalID: 4686770820680953852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Hurt06
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 685
+        width: 409
+        height: 387
+      alignment: 9
+      pivot: {x: 0.53672194, y: 0.46673426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809535811cb356c41a0ce383ca1b1318
+      internalID: 5311536467083638954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Hurt07
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 685
+        width: 406
+        height: 391
+      alignment: 9
+      pivot: {x: 0.532766, y: 0.45719704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca73d13af323a26489ef17e699c41a12
+      internalID: 4395051557620094377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Hurt08
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 685
+        width: 391
+        height: 387
+      alignment: 9
+      pivot: {x: 0.551583, y: 0.45453686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b8865977c4c4542accb1233e1dbbf2
+      internalID: 8884996901764822445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Hurt09
+      rect:
+        serializedVersion: 2
+        x: 4169
+        y: 685
+        width: 409
+        height: 380
+      alignment: 9
+      pivot: {x: 0.5440671, y: 0.4695094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5382eefcf94d0ba489e77fe396414c9a
+      internalID: -7247739681922124430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Hurt10
+      rect:
+        serializedVersion: 2
+        x: 4678
+        y: 685
+        width: 391
+        height: 423
+      alignment: 9
+      pivot: {x: 0.51975477, y: 0.42087016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58b4ef1dbf070d4abcf200f428fa7f6
+      internalID: 1798996167466106731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Hurt11
+      rect:
+        serializedVersion: 2
+        x: 5168
+        y: 685
+        width: 377
+        height: 460
+      alignment: 9
+      pivot: {x: 0.49317053, y: 0.39085242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ebc2a5554cd534db05abdb58d8ac2c
+      internalID: -554125849382012781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Hurt12
+      rect:
+        serializedVersion: 2
+        x: 5640
+        y: 685
+        width: 373
+        height: 475
+      alignment: 9
+      pivot: {x: 0.48849463, y: 0.36900315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ded65377fda6724490129c46aa4e70f
+      internalID: -4331648651233476249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Hurt13
+      rect:
+        serializedVersion: 2
+        x: 6111
+        y: 685
+        width: 362
+        height: 464
+      alignment: 9
+      pivot: {x: 0.48103258, y: 0.37144667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d860bcabe71dd4c82261ad2ef6fff8
+      internalID: 7799446110560051034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Hurt14
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 685
+        width: 354
+        height: 420
+      alignment: 9
+      pivot: {x: 0.4757556, y: 0.39884847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f263aaba4016c4580cfdc57e9b6f83
+      internalID: 6531863179123499659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Hurt15
+      rect:
+        serializedVersion: 2
+        x: 7029
+        y: 685
+        width: 333
+        height: 347
+      alignment: 9
+      pivot: {x: 0.48582372, y: 0.46908313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2413ba648ddb64f894957250808f8d
+      internalID: 2881307146052798229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hurt00
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 119
+        width: 332
+        height: 350
+      alignment: 9
+      pivot: {x: 0.48916852, y: 0.4589013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d932f1ba00ea52a46ac2b49addedc81e
+      internalID: -8369103768793963459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hurt01
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 119
+        width: 329
+        height: 350
+      alignment: 9
+      pivot: {x: 0.47595307, y: 0.4568464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328cbf19ae9c2104b9cab909faf06eba
+      internalID: 7313198813214043811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hurt02
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 119
+        width: 332
+        height: 350
+      alignment: 9
+      pivot: {x: 0.48266932, y: 0.4630112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e3846ff076c65418997eafa4958f2f
+      internalID: 5979314750052195748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hurt03
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 119
+        width: 333
+        height: 350
+      alignment: 9
+      pivot: {x: 0.48272175, y: 0.4568464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba0030e37a725b4089729bde9dd1900
+      internalID: 8754061106885832245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hurt04
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 119
+        width: 336
+        height: 365
+      alignment: 9
+      pivot: {x: 0.48287565, y: 0.43891484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6f1300e13418d49b2c31e357ca332f
+      internalID: -2995598215833872477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hurt05
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 119
+        width: 339
+        height: 442
+      alignment: 9
+      pivot: {x: 0.48727012, y: 0.36819574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e567ffd25c1f1fd43aa2477ac7d897b5
+      internalID: 5224735758595025652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hurt06
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 119
+        width: 406
+        height: 383
+      alignment: 9
+      pivot: {x: 0.45925558, y: 0.46432033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542888bb687ecb3488a960c4e83f6831
+      internalID: 8807743504231323889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hurt07
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 118
+        width: 402
+        height: 380
+      alignment: 9
+      pivot: {x: 0.44453695, y: 0.46403864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd83f19cc6d153478a712c18ef27be3
+      internalID: -1713361304493608205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hurt08
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 119
+        width: 395
+        height: 372
+      alignment: 9
+      pivot: {x: 0.4417332, y: 0.45939842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2061b45e7a592384182fd40f33fb3b34
+      internalID: 4077985095633585579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hurt09
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 119
+        width: 406
+        height: 383
+      alignment: 9
+      pivot: {x: 0.45748466, y: 0.45680878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81a30d0c16360742837bb2c6f0a38ff
+      internalID: 3351948759517831184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hurt10
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 119
+        width: 394
+        height: 409
+      alignment: 9
+      pivot: {x: 0.47079235, y: 0.43317682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b14b0aaf3119d944b0bde5fd01aee3f
+      internalID: 1695319700459423363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hurt11
+      rect:
+        serializedVersion: 2
+        x: 5168
+        y: 119
+        width: 377
+        height: 449
+      alignment: 9
+      pivot: {x: 0.48282987, y: 0.38787088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10899e2fe08aac043b05bfd0ff13482f
+      internalID: -2274606766452166668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hurt12
+      rect:
+        serializedVersion: 2
+        x: 5643
+        y: 119
+        width: 370
+        height: 467
+      alignment: 9
+      pivot: {x: 0.4844489, y: 0.36755103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5396a551936054419f7fbf9d5996c05
+      internalID: -4820478543261084898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hurt13
+      rect:
+        serializedVersion: 2
+        x: 6111
+        y: 119
+        width: 366
+        height: 464
+      alignment: 9
+      pivot: {x: 0.47838354, y: 0.3620445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a5112bfb15d124c902ee851641a166
+      internalID: -1085424771669896520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hurt14
+      rect:
+        serializedVersion: 2
+        x: 6576
+        y: 119
+        width: 354
+        height: 427
+      alignment: 9
+      pivot: {x: 0.46749344, y: 0.38714686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da1939bcb404064ca85d3a1056b624f
+      internalID: -6791260968864367747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Hurt15
+      rect:
+        serializedVersion: 2
+        x: 7029
+        y: 130
+        width: 333
+        height: 350
+      alignment: 9
+      pivot: {x: 0.482721, y: 0.45684633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88be33a6b2dea84086db257da0a30a3
+      internalID: -7898984270864284554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 2b2caebad43280e4887d0312fa7a2fe8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1665239081925647396
+    second: ManoH_Balas00
+  - first:
+      213: 5167603308566047706
+    second: ManoH_Balas01
+  - first:
+      213: 3296422626686960588
+    second: ManoH_Balas02
+  - first:
+      213: -6006533983692171814
+    second: ManoH_Balas03
+  - first:
+      213: -6724005213029013855
+    second: ManoH_Balas04
+  - first:
+      213: 9053032748209904203
+    second: ManoH_Balas05
+  - first:
+      213: -1967518159859845116
+    second: ManoH_Balas06
+  - first:
+      213: -3809381552071742459
+    second: ManoH_Balas07
+  - first:
+      213: 2901694122139362591
+    second: ManoH_Balas08
+  - first:
+      213: -1379478305330032926
+    second: ManoV_Balas00
+  - first:
+      213: -8419152359623977739
+    second: ManoV_Balas01
+  - first:
+      213: -2749906503812215749
+    second: ManoV_Balas02
+  - first:
+      213: 123416910229971884
+    second: ManoV_Balas03
+  - first:
+      213: -6362641732915196695
+    second: ManoV_Balas04
+  - first:
+      213: -6037431006656208343
+    second: ManoV_Balas05
+  - first:
+      213: -3595637389004225551
+    second: ManoV_Balas06
+  - first:
+      213: 765596219535589533
+    second: ManoV_Balas07
+  - first:
+      213: 147428189784322282
+    second: ManoV_Balas08
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ManoH_Balas00
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 209
+        width: 132
+        height: 63
+      alignment: 9
+      pivot: {x: 0.98408985, y: 0.2077489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9c3a7bb4e929a47887ea9fb0254d1b
+      internalID: -1665239081925647396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManoH_Balas01
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 210
+        width: 132
+        height: 61
+      alignment: 9
+      pivot: {x: 0.99065375, y: 0.21592186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be9c545ede818f4c936023920307f66
+      internalID: 5167603308566047706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManoH_Balas02
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 211
+        width: 132
+        height: 59
+      alignment: 9
+      pivot: {x: 0.99065375, y: 0.2173061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2ea252d088e1942a98f763c261753f
+      internalID: 3296422626686960588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManoH_Balas03
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 211
+        width: 133
+        height: 58
+      alignment: 9
+      pivot: {x: 0.9820786, y: 0.23484012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd01b5434c082ee44a8d58e4f722f2f0
+      internalID: -6006533983692171814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManoH_Balas04
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 212
+        width: 132
+        height: 57
+      alignment: 9
+      pivot: {x: 0.9857307, y: 0.23398818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209a5bfaaa791fb43a236d69646de6aa
+      internalID: -6724005213029013855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManoH_Balas05
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 206
+        width: 132
+        height: 68
+      alignment: 9
+      pivot: {x: 0.98409015, y: 0.1846419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459536e02f20d174f956e528d1937b39
+      internalID: 9053032748209904203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManoH_Balas06
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 201
+        width: 130
+        height: 79
+      alignment: 9
+      pivot: {x: 0.97820765, y: 0.16823085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054d1ecba64421748a13d9aaf17a629d
+      internalID: -1967518159859845116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManoH_Balas07
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 204
+        width: 132
+        height: 72
+      alignment: 9
+      pivot: {x: 0.98080814, y: 0.19313642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bb974e272f6eb418fa310b7c2467de
+      internalID: -3809381552071742459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManoH_Balas08
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 209
+        width: 132
+        height: 63
+      alignment: 9
+      pivot: {x: 0.9890127, y: 0.20087251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a559c6e67ad5c49b356e5f413831d3
+      internalID: 2901694122139362591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManoV_Balas00
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 28
+        width: 43
+        height: 116
+      alignment: 9
+      pivot: {x: 0.47012863, y: 0.97614646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af9452b44ee8744599a42805d6d3cef
+      internalID: -1379478305330032926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManoV_Balas01
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 27
+        width: 43
+        height: 117
+      alignment: 9
+      pivot: {x: 0.47676688, y: 0.9745165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f32fd61f16df6479a19f8e4f37b5fb
+      internalID: -8419152359623977739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManoV_Balas02
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 27
+        width: 43
+        height: 118
+      alignment: 9
+      pivot: {x: 0.46349105, y: 0.97412366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f3f3cf23e51ad459bcf3744d6236f8
+      internalID: -2749906503812215749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManoV_Balas03
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 26
+        width: 43
+        height: 119
+      alignment: 9
+      pivot: {x: 0.46349105, y: 0.97133875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563a7733109d24d4291fe24a810cb945
+      internalID: 123416910229971884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManoV_Balas04
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 29
+        width: 43
+        height: 114
+      alignment: 9
+      pivot: {x: 0.4535338, y: 0.96947664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264358432865dcd4eba4ef11f45c3c97
+      internalID: -6362641732915196695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManoV_Balas05
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 31
+        width: 43
+        height: 109
+      alignment: 9
+      pivot: {x: 0.46017244, y: 0.9739905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbf8369fdf01af4bbb7134a97cde304
+      internalID: -6037431006656208343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManoV_Balas06
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 30
+        width: 43
+        height: 112
+      alignment: 9
+      pivot: {x: 0.47344828, y: 0.97276294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7159410779376d344ab750bdc2ade3d4
+      internalID: -3595637389004225551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManoV_Balas07
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 29
+        width: 43
+        height: 114
+      alignment: 9
+      pivot: {x: 0.4767683, y: 0.9719806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e001402369d0354cbdc01e2a87e5a19
+      internalID: 765596219535589533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManoV_Balas08
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 28
+        width: 43
+        height: 116
+      alignment: 9
+      pivot: {x: 0.46349245, y: 0.9749161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c1acff7f61f324996769e18f02a8fc
+      internalID: 147428189784322282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

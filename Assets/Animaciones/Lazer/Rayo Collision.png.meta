@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: d0043d38803915d4296025f0e9e58c0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5909414636845620049
+    second: Rayo Collision_01
+  - first:
+      213: 7357838224602536290
+    second: Rayo Collision_02
+  - first:
+      213: -1856110140430812030
+    second: Rayo Collision_03
+  - first:
+      213: 489502539647041407
+    second: Rayo Collision_04
+  - first:
+      213: 2924973399023614163
+    second: Rayo Collision_05
+  - first:
+      213: -6406660843895227441
+    second: Rayo Collision_06
+  - first:
+      213: 5947206269202642184
+    second: Rayo Collision_07
+  - first:
+      213: -5909414636845620049
+    second: Rayo Collision_0
+  - first:
+      213: 7357838224602536290
+    second: Rayo Collision_1
+  - first:
+      213: -1856110140430812030
+    second: Rayo Collision_2
+  - first:
+      213: 489502539647041407
+    second: Rayo Collision_3
+  - first:
+      213: 2924973399023614163
+    second: Rayo Collision_4
+  - first:
+      213: -6406660843895227441
+    second: Rayo Collision_5
+  - first:
+      213: 5947206269202642184
+    second: Rayo Collision_6
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rayo Collision_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 1, y: 0.49200046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7788e38325a8f348828a9a0e372d8e8
+      internalID: -5909414636845620049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rayo Collision_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 15
+        height: 13
+      alignment: 9
+      pivot: {x: 1, y: 0.49076945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f63cd7c6c9cd9d4cb956ec81e1bdac1
+      internalID: 7357838224602536290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rayo Collision_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 13
+        width: 15
+        height: 27
+      alignment: 9
+      pivot: {x: 1.0013336, y: 0.48107734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe7c5bc2eed2a3448a192c2ab016375
+      internalID: -1856110140430812030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rayo Collision_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 13
+        width: 15
+        height: 27
+      alignment: 9
+      pivot: {x: 0.9973348, y: 0.4805964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b6af4504fbef445b9ae45010abdfb2
+      internalID: 489502539647041407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rayo Collision_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1
+        width: 15
+        height: 49
+      alignment: 9
+      pivot: {x: 0.99733377, y: 0.4987756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c4bf8424ec76344aba325a22bbc7ed
+      internalID: 2924973399023614163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rayo Collision_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 15
+        height: 52
+      alignment: 9
+      pivot: {x: 1.0000015, y: 0.47996485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93354e43b339f6b4cab4a677c0e8c4ce
+      internalID: -6406660843895227441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rayo Collision_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 15
+        height: 51
+      alignment: 9
+      pivot: {x: 0.9986689, y: 0.49984252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42c5c04bd1bfc84584bf7aeb09f155a
+      internalID: 5947206269202642184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

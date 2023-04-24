@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: c8822d2a24c6de242bb1a62dfefc7104
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8950498395047713602
+    second: Sheets Cora_0
+  - first:
+      213: 6002976484715933525
+    second: Sheets Cora_1
+  - first:
+      213: -5708335413273502208
+    second: Sheets Cora_2
+  - first:
+      213: -9124672577994000391
+    second: Sheets Cora_3
+  - first:
+      213: -7406053870818552808
+    second: Sheets Cora_5
+  - first:
+      213: 6255856187044262782
+    second: Sheets Cora_7
+  - first:
+      213: -5643334852610133491
+    second: Sheets Cora_9
+  - first:
+      213: -7577094948022637266
+    second: Sheets Cora_11
+  - first:
+      213: -920511881969784182
+    second: Sheets Cora_13
+  - first:
+      213: -412499845255032096
+    second: Sheets Cora_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sheets Cora_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 64
+        width: 81
+        height: 70
+      alignment: 9
+      pivot: {x: 0.51260537, y: 0.5340346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d7e634b67463c47af181f1dd7c2529
+      internalID: -8950498395047713602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets Cora_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 60
+        width: 95
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5250779, y: 0.54420066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febe4cf04b801504c9bfb2a852490267
+      internalID: 6002976484715933525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets Cora_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 58
+        width: 107
+        height: 82
+      alignment: 9
+      pivot: {x: 0.48062962, y: 0.5379141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecce9f2481710334699b76e6e6441544
+      internalID: -5708335413273502208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets Cora_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 63
+        width: 105
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51363593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf1ea8b84a0ec64f8a9ec0d90079854
+      internalID: -9124672577994000391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets Cora_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 64
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f602addb171554289f8965e91994ed
+      internalID: -7406053870818552808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets Cora_7
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 65
+        width: 119
+        height: 85
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.5437878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741726f90d3412f499e3da78e560fcba
+      internalID: 6255856187044262782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets Cora_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 66
+        width: 122
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4915061, y: 0.5956598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae1714dd60e6a4498ef0cf4d9aa2f6a
+      internalID: -5643334852610133491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets Cora_11
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 69
+        width: 131
+        height: 90
+      alignment: 9
+      pivot: {x: 0.50000095, y: 0.5863597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20928cc1b27a924a81bf06c59453932
+      internalID: -7577094948022637266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets Cora_13
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 71
+        width: 131
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4683577, y: 0.5767637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c416b0bf5dd0234faede31dcb89268c
+      internalID: -920511881969784182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheets Cora_15
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 74
+        width: 125
+        height: 53
+      alignment: 9
+      pivot: {x: 0.48022658, y: 0.5932711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d728a9f19e1cb4482c10e2e32577ff
+      internalID: -412499845255032096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
