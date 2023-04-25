@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class Roby : MonoBehaviour
 {
-
+    Animator _animator;
     public int speed;
     public int hp;
     public Rigidbody2D rb;
@@ -19,11 +19,21 @@ public class Roby : MonoBehaviour
     public GameObject projectile;
     private Vector2 spawnAbove;
 
+    enum State
+    {
+        forward,
+        backward,
+        rigth,
+        left
+    }
+
+    State _actualState = State.forward;
 
     void Start()
     {
+        _animator = GetComponent<Animator>();
+        _animator.SetBool(_actualState.ToString(), true);
 
-        GetComponent<Animator>().SetBool("F", true);
         hp = 3;
         Pain = GetComponent<AudioSource>();
     }
@@ -37,69 +47,56 @@ public class Roby : MonoBehaviour
 
         Vector2 dir;
 
-        dir.x = Input.GetAxis("Horizontal") * speed;
-        dir.y = Input.GetAxis("Vertical") * speed;
-        rb.velocity = dir;
+        dir.x = Input.GetAxis("Horizontal");
+        dir.y = Input.GetAxis("Vertical");
+
+        dir.Normalize();
+        rb.velocity = dir * speed;
 
         /*___________________________________________________________________LIMITES_______________________________________________*/
 
 
-        if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("Level1"))
-        {
-            transform.position = new Vector2(Mathf.Clamp(transform.position.x, -18.52f, 31.66f), Mathf.Clamp(transform.position.y, -12.23f, 37.4f));
-        }
+        //if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("Level1"))
+        //{
+        //    transform.position = new Vector2(Mathf.Clamp(transform.position.x, -18.52f, 31.66f), Mathf.Clamp(transform.position.y, -12.23f, 37.4f));
+        //}
 
-        else if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("Level2"))
-        {
-            transform.position = new Vector2(Mathf.Clamp(transform.position.x, -32.87f, 21f),Mathf.Clamp(transform.position.y, -14.344f, 40.8f));
-        }
+        //else if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("Level2"))
+        //{
+        //    transform.position = new Vector2(Mathf.Clamp(transform.position.x, -32.87f, 21f),Mathf.Clamp(transform.position.y, -14.344f, 40.8f));
+        //}
 
-        else if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("Level0"))
-        {
-            transform.position = new Vector2(Mathf.Clamp(transform.position.x, -49.8f, -1.2f), Mathf.Clamp(transform.position.y, -22.17f, 31.3f));
-        }
+        //else if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("Level0"))
+        //{
+        //    transform.position = new Vector2(Mathf.Clamp(transform.position.x, -49.8f, -1.2f), Mathf.Clamp(transform.position.y, -22.17f, 31.3f));
+        //}
 
 
         /*___________________________________________________________________ANIMACIONES_______________________________________________*/
 
-        if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.A))
+        if (Input.GetKeyDown(KeyCode.W))
         {
-            GetComponent<Animator>().SetBool("Walk", true);
+           _animator.SetBool(_actualState.ToString(), false);
+            _actualState = State.backward;
+           _animator.SetBool(_actualState.ToString(), true);
         }
-
-        if (Input.GetKeyUp(KeyCode.S) || Input.GetKeyUp(KeyCode.D) || Input.GetKeyUp(KeyCode.W) || Input.GetKeyUp(KeyCode.A))
+        if (Input.GetKeyDown(KeyCode.A))
         {
-            GetComponent<Animator>().SetBool("Walk", false);
+            _animator.SetBool(_actualState.ToString(), false);
+            _actualState = State.left;
+            _animator.SetBool(_actualState.ToString(), true);
         }
-
-        if (Input.GetKey(KeyCode.D))
+        if (Input.GetKeyDown(KeyCode.S))
         {
-            GetComponent<Animator>().SetBool("X+", true);
-            GetComponent<Animator>().SetBool("X-", false);
+            _animator.SetBool(_actualState.ToString(), false);
+            _actualState = State.forward;
+            _animator.SetBool(_actualState.ToString(), true);
         }
-
-
-        if (Input.GetKey(KeyCode.A))
+        if (Input.GetKeyDown(KeyCode.D))
         {
-            GetComponent<Animator>().SetBool("X-", true);
-            GetComponent<Animator>().SetBool("X+", false);
-        }
-
-
-        if (Input.GetKey(KeyCode.W))
-        {
-            GetComponent<Animator>().SetBool("E", true);
-            GetComponent<Animator>().SetBool("F", false);
-            GetComponent<Animator>().SetBool("X+", false);
-            GetComponent<Animator>().SetBool("X-", false);
-        }
-
-        if (Input.GetKey(KeyCode.S))
-        {
-            GetComponent<Animator>().SetBool("F", true);
-            GetComponent<Animator>().SetBool("E", false);
-            GetComponent<Animator>().SetBool("X+", false);
-            GetComponent<Animator>().SetBool("X-", false);
+            _animator.SetBool(_actualState.ToString(), false);
+            _actualState = State.rigth;
+            _animator.SetBool(_actualState.ToString(), true);
         }
 
         if (coheteCharging.GetComponent<TiempoAtaque>().attackCharged == true && mapaCanvas.enabled == false && pausaCanvas.enabled == false)
